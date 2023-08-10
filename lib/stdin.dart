@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:algorithms/coord.dart';
+import 'package:examen_structures/coord.dart';
 
 int readInt() => int.tryParse(stdin.readLineSync() ?? '0') ?? 0;
 
